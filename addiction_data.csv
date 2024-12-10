@@ -1,0 +1,401 @@
+id,text,addiction_type,confidence
+1,I've been drinking every night just to forget my problems. I can't stop thinking about it.,substance_abuse,0.95
+2,"I just spent my entire paycheck on online gambling. I know I should stop, but I can't help myself.",gambling,0.92
+3,"I feel like I need to check my social media every few minutes, or I get anxious.",digital_addiction,0.9
+4,"Whenever I feel stressed, I turn to alcohol. It’s the only way I can cope.",substance_abuse,0.97
+5,"I can't stop playing this game. It's taking over my life, and I ignore everything else.",digital_addiction,0.93
+6,"I've lost so much money on gambling sites. I tell myself it's my last time, but I always go back.",gambling,0.94
+7,"I used to be social, but now I only feel comfortable with a drink in my hand.",substance_abuse,0.89
+8,My friends say I spend too much time online. I just can’t stop scrolling through videos.,digital_addiction,0.85
+9,I feel like I can’t control my betting habits. It’s affecting my relationships.,gambling,0.96
+10,I find myself buying drugs even when I can't afford it. It’s like I have no control.,substance_abuse,0.99
+11,"Every time I think about quitting smoking, I just light another cigarette.",substance_abuse,0.91
+12,I lost my job because I was spending too much time gambling online.,gambling,0.93
+13,I check my notifications even when I'm in the middle of a conversation.,digital_addiction,0.9
+14,"I can’t function without my morning coffee, and I drink way too much of it.",substance_abuse,0.87
+15,I feel really guilty after spending all my money on betting.,gambling,0.92
+16,I always find myself binge-watching series for hours. I lose track of time.,digital_addiction,0.88
+17,"I keep telling myself I'll quit drinking, but I always end up at the bar.",substance_abuse,0.94
+18,I spend most of my paycheck on poker games. It's getting out of hand.,gambling,0.91
+19,I feel anxious if I can't use my phone for a few minutes.,digital_addiction,0.93
+20,I often drink to celebrate and then regret it the next day.,substance_abuse,0.89
+21,I bet on games without thinking about the consequences.,gambling,0.95
+22,"I can't stop playing this mobile game, even when I have work to do.",digital_addiction,0.9
+23,I feel like I can't enjoy life without a drink in my hand.,substance_abuse,0.93
+24,"I try to avoid my gambling friends, but I still end up joining them.",gambling,0.88
+25,I find myself mindlessly scrolling through my feed for hours.,digital_addiction,0.91
+26,"I think about using drugs every day, and it's affecting my mental health.",substance_abuse,0.96
+27,"I promised myself I'd stop betting, but then I place another wager.",gambling,0.94
+28,"I can't go a day without checking my social media, or I feel lost.",digital_addiction,0.89
+29,"I hide my drinking from my family, but it’s becoming impossible to manage.",substance_abuse,0.95
+30,"I gamble to escape reality, but it only makes things worse.",gambling,0.97
+31,I get anxious when I’m not connected to the internet.,digital_addiction,0.9
+32,"I drink to socialize, but I often end up drinking alone.",substance_abuse,0.94
+33,"I regret every gambling loss, but I can’t stop myself.",gambling,0.96
+34,I feel lost without my favorite online games; they’re my escape.,digital_addiction,0.92
+35,"I always think I can control my drinking, but it gets the best of me.",substance_abuse,0.93
+36,I lie about how much I gamble to my friends and family.,gambling,0.88
+37,I check my phone before I even get out of bed in the morning.,digital_addiction,0.91
+38,"I binge-drink every weekend, but I don't think I have a problem.",substance_abuse,0.94
+39,"Every time I get money, I think about how I can use it for gambling.",gambling,0.95
+40,I feel a rush when I post something online and get likes instantly.,digital_addiction,0.9
+41,"I drink to feel better about my life, but it just makes it worse.",substance_abuse,0.96
+42,I find it hard to resist the urge to gamble when I see ads online.,gambling,0.93
+43,I can’t focus on anything else when I’m gaming; it’s all-consuming.,digital_addiction,0.94
+44,"I’ve tried to quit drinking multiple times, but I always relapse.",substance_abuse,0.95
+45,Gambling has cost me friendships and family relationships.,gambling,0.98
+46,I feel like I’m missing out if I’m not online all the time.,digital_addiction,0.89
+47,"I can't stop buying drugs, even when I know it's ruining my life.",substance_abuse,0.99
+48,I gamble even when I'm supposed to be saving money for bills.,gambling,0.96
+49,"My screen time is way too high, but I just can’t stop using my devices.",digital_addiction,0.94
+50,"I often black out from drinking, and I don’t remember what happened.",substance_abuse,0.99
+51,"I sometimes drink a little too much, but I think it's normal.",substance_abuse,0.65
+52,"I enjoy playing games, but it doesn't take up all my time.",digital_addiction,0.7
+53,"I play the lottery occasionally, but I don't spend much on it.",gambling,0.6
+54,"I drink socially, but sometimes I go overboard.",substance_abuse,0.75
+55,I find myself checking my phone more than I used to.,digital_addiction,0.72
+56,"I bet on sports once in a while, but it's just for fun.",gambling,0.55
+57,"I think about having a drink at the end of the day, but I don’t always do it.",substance_abuse,0.68
+58,"I enjoy browsing social media, but it doesn’t interfere with my life.",digital_addiction,0.67
+59,"I sometimes gamble when I’m feeling lucky, but it's not a big deal.",gambling,0.6
+60,I feel fine when I skip a few days without drinking.,substance_abuse,0.5
+61,"I use my phone a lot, but I can put it down when I need to.",digital_addiction,0.64
+62,Gambling is just a hobby for me; I don’t take it too seriously.,gambling,0.58
+63,I drink wine occasionally and don’t feel bad about it.,substance_abuse,0.62
+64,"I play video games to unwind, but I make time for other activities.",digital_addiction,0.66
+65,"I sometimes bet on horse races, but only for fun.",gambling,0.57
+66,I enjoy a few beers on the weekends; it’s not a problem for me.,substance_abuse,0.6
+67,"I scroll through social media during my breaks, but I don't feel addicted.",digital_addiction,0.63
+68,"I buy scratch-off tickets sometimes, but it's not a big part of my life.",gambling,0.55
+69,"I drink a cocktail every now and then, and I don’t feel guilty about it.",substance_abuse,0.72
+70,I enjoy gaming but I also have a job and social life.,digital_addiction,0.65
+71,"I have a bet with friends occasionally, but it’s all in good fun.",gambling,0.54
+72,"I only drink when I go out, which is not too often.",substance_abuse,0.7
+73,I find it easy to log off my games when I need to.,digital_addiction,0.66
+74,"Gambling is just a way to pass time for me, nothing serious.",gambling,0.59
+75,I occasionally drink with friends but I can stop whenever I want.,substance_abuse,0.65
+76,"I enjoy watching streams online, but it’s not the only thing I do.",digital_addiction,0.62
+77,"I sometimes feel tempted to gamble, but I resist most of the time.",gambling,0.61
+78,"I drink sometimes, but I don’t think it’s a problem for me.",substance_abuse,0.58
+79,"I watch videos for entertainment, but I don't think about it much.",digital_addiction,0.6
+80,"I’ve placed a few bets, but I don’t consider myself a gambler.",gambling,0.57
+81,"I enjoy a drink after work, but it’s nothing I can't handle.",substance_abuse,0.66
+82,"I play games occasionally, but they don’t consume my life.",digital_addiction,0.63
+83,"I don’t bet often, just when I’m with friends.",gambling,0.55
+84,I have a drink every few weeks; it feels fine to me.,substance_abuse,0.62
+85,"I enjoy online quizzes, but I don’t do them every day.",digital_addiction,0.64
+86,"I sometimes think about gambling, but I rarely act on it.",gambling,0.56
+87,"I have a drink with dinner occasionally, but that’s it.",substance_abuse,0.65
+88,"I can quit using my phone anytime, it’s just a habit.",digital_addiction,0.59
+89,"I might place a small bet, but I don’t worry about it.",gambling,0.54
+90,"I enjoy having a beer at parties, but it’s not a necessity.",substance_abuse,0.67
+91,"I like to watch TV series, but I can go without it easily.",digital_addiction,0.62
+92,"I might gamble a little when I’m bored, but it’s rare.",gambling,0.58
+93,"I drink every now and then, but it’s not often enough to worry.",substance_abuse,0.65
+94,I scroll through Instagram occasionally but have other interests.,digital_addiction,0.61
+95,"I might place a bet or two when I'm out, but nothing major.",gambling,0.53
+96,"I enjoy a drink during special occasions, nothing too crazy.",substance_abuse,0.64
+97,"I sometimes spend time gaming, but I also exercise regularly.",digital_addiction,0.6
+98,"I have placed a bet on a whim, but it doesn’t happen often.",gambling,0.52
+99,"I drink socially, and I feel in control of it.",substance_abuse,0.66
+100,"I spend time online, but I prioritize my responsibilities first.",digital_addiction,0.62
+101,"I occasionally have a glass of wine with dinner, but it's rare.",none,0.2
+102,I use my phone to check the weather and then put it down.,none,0.15
+103,I enjoy playing board games with friends on the weekends.,none,0.1
+104,"I drink coffee in the morning, but I don’t rely on it.",none,0.25
+105,"I might watch a movie occasionally, but I don’t binge.",none,0.3
+106,I only go to the casino for special events; I don't gamble regularly.,none,0.2
+107,"I try new recipes occasionally, but cooking isn’t an obsession.",none,0.15
+108,"I use social media to stay in touch with family, but not excessively.",none,0.25
+109,"I enjoy reading books, but I also spend time outdoors.",none,0.1
+110,"I sometimes have dessert after dinner, but not every day.",none,0.2
+111,"I like to walk my dog daily, but I don't feel tied to it.",none,0.15
+112,"I go to the gym a few times a week, but I also enjoy rest days.",none,0.25
+113,"I like to binge-watch a series sometimes, but I can stop easily.",none,0.3
+114,"I occasionally try a new drink, but I'm not a big drinker.",none,0.2
+115,"I enjoy gardening, but it’s a hobby, not an obsession.",none,0.1
+116,"I listen to music while working, but I can focus without it.",none,0.25
+117,"I might scroll through my phone while waiting, but I don’t need it.",none,0.2
+118,"I drink tea in the evenings, but it’s just a calming ritual.",none,0.15
+119,"I enjoy visiting friends occasionally, but I don’t feel lonely without it.",none,0.1
+120,"I watch a few shows during the week, but I don’t feel compelled to binge.",none,0.3
+121,"I might play a mobile game while waiting, but I can easily put it down.",none,0.2
+122,I enjoy a drink with friends occasionally; it’s not a habit.,none,0.25
+123,"I read the news online, but I don’t spend too much time on it.",none,0.15
+124,"I do some puzzles for fun, but they don’t take up all my time.",none,0.1
+125,"I enjoy drawing occasionally, but it’s not something I have to do.",none,0.2
+126,"I play sports for fun, but I don’t feel pressured to win.",none,0.15
+127,"I might have a beer while watching a game, but it’s not frequent.",none,0.25
+128,"I only shop online when I need something, not just for fun.",none,0.2
+129,"I watch educational videos online, but not every day.",none,0.15
+130,"I like to try new foods when I go out, but I don’t have cravings for them.",none,0.1
+131,"I take walks for exercise, but I can skip it if needed.",none,0.25
+132,I might play an online game with friends once in a while.,none,0.3
+133,"I enjoy cooking for fun, but it’s not something I feel I must do.",none,0.2
+134,"I read a book occasionally, but it’s not every night.",none,0.15
+135,"I occasionally check my email, but I can wait to respond.",none,0.2
+136,I play a few rounds of golf during the summer; it’s just a leisure activity.,none,0.1
+137,"I might snack while watching TV, but it’s not something I rely on.",none,0.25
+138,"I enjoy taking photos on vacation, but I don’t need to do it daily.",none,0.15
+139,"I might scroll through Pinterest for ideas, but it’s not addictive.",none,0.2
+140,I only attend a bar for special occasions; I don't go often.,none,0.25
+141,"I cook dinner a few times a week, but I don’t feel obligated to.",none,0.1
+142,"I look for new recipes online, but it’s just for fun.",none,0.15
+143,"I sometimes watch documentaries, but not every week.",none,0.2
+144,"I enjoy a drink during special events, but I can take it or leave it.",none,0.3
+145,"I read reviews before trying a new restaurant, but it doesn’t consume me.",none,0.25
+146,"I occasionally play with my kids, but I also encourage them to play outside.",none,0.15
+147,I might do some gardening when I have time; it’s relaxing.,none,0.1
+148,I occasionally visit a friend’s house for dinner; it’s nice to catch up.,none,0.2
+149,I like to watch the news occasionally but I’m not obsessed with it.,none,0.15
+150,"I go for a walk in the park sometimes, but it’s not a daily routine.",none,0.2
+151,"I occasionally enjoy a drink with dinner, but it's not a habit.",none,0.18
+152,"I like to watch a movie now and then, but I can easily skip it.",none,0.22
+153,"I read a book when I have free time, but it's not my main activity.",none,0.17
+154,"I sometimes play games with friends, but it's infrequent.",none,0.2
+155,"I might check my social media once a day, but I don't dwell on it.",none,0.21
+156,"I enjoy cooking new recipes occasionally, but I don't feel pressured to.",none,0.15
+157,"I like to visit the gym when I can, but I don't obsess over it.",none,0.2
+158,"I enjoy gardening occasionally, but I also have other hobbies.",none,0.19
+159,"I might have a snack while watching TV, but I don't do it every time.",none,0.16
+160,"I go for a run when I feel like it, but it's not a strict routine.",none,0.22
+161,"I enjoy a glass of water when I'm thirsty, but I don’t crave it.",none,0.14
+162,"I check my email when I need to, but I don’t feel compelled to.",none,0.23
+163,"I might go for ice cream on a hot day, but it's a rare treat.",none,0.18
+164,"I take my dog for a walk when I can, but it’s not a daily obligation.",none,0.2
+165,"I occasionally try new restaurants, but I don't feel the need to go out often.",none,0.21
+166,"I might attend a concert if it's convenient, but I don't seek them out.",none,0.17
+167,"I enjoy photography as a hobby, but I don’t feel I must do it all the time.",none,0.15
+168,"I only play video games occasionally, and I can stop anytime.",none,0.19
+169,"I drink herbal tea in the evenings sometimes, but I don’t rely on it.",none,0.2
+170,"I enjoy reading the news occasionally, but it doesn’t consume my time.",none,0.16
+171,"I like to go out for walks in nature, but it’s not a frequent activity.",none,0.23
+172,"I enjoy baking, but I don’t feel pressured to do it often.",none,0.19
+173,"I might do yoga once in a while, but it’s not a routine.",none,0.2
+174,"I enjoy casual dining out, but I don’t do it frequently.",none,0.22
+175,"I check my messages when I want to, but I don't obsess over it.",none,0.21
+176,"I might attend a local event now and then, but it’s not a priority.",none,0.18
+177,"I enjoy a good book now and then, but I don't feel the need to read daily.",none,0.2
+178,"I like to watch documentaries occasionally, but it’s not a habit.",none,0.22
+179,"I might use a fitness app sometimes, but I don’t feel dependent on it.",none,0.16
+180,"I might enjoy some cake during a celebration, but I don't crave sweets daily.",none,0.19
+181,"I check the weather app occasionally, but I don't rely on it every day.",none,0.15
+182,"I enjoy spending time with family, but I also value my alone time.",none,0.2
+183,"I listen to podcasts occasionally, but I don’t have to every day.",none,0.22
+184,"I sometimes engage in arts and crafts, but it’s not an obsession.",none,0.2
+185,"I enjoy swimming in the summer, but I don't go often.",none,0.18
+186,"I might attend a workshop if it interests me, but I don’t feel pressured to.",none,0.21
+187,"I enjoy trying new foods during vacations, but it’s not a requirement.",none,0.19
+188,"I sometimes visit museums, but it’s not a regular activity for me.",none,0.2
+189,"I might go to the park occasionally, but I can skip it without issue.",none,0.15
+190,"I enjoy learning new skills, but I don't feel addicted to it.",none,0.18
+191,"I find myself drinking every weekend, even when I plan not to.",substance_abuse,0.85
+192,"I gamble frequently, often losing track of time and money.",gambling,0.9
+193,"I spend hours scrolling through social media, even when I have other tasks.",digital_addiction,0.88
+194,I feel anxious if I can't check my phone for updates.,digital_addiction,0.92
+195,"I often drink to cope with stress, and I can't remember the last time I didn't.",substance_abuse,0.87
+196,"I place bets even when I know I shouldn’t, hoping to win back losses.",gambling,0.85
+197,I feel compelled to check my gaming stats multiple times a day.,digital_addiction,0.89
+198,"I can't seem to stop binge-watching series, even when I have responsibilities.",digital_addiction,0.86
+199,"I frequently find myself drinking alone, especially on tough days.",substance_abuse,0.84
+200,"I often make excuses to gamble more, telling myself it will pay off.",gambling,0.88
+201,I can’t resist the urge to check my social media first thing in the morning.,digital_addiction,0.91
+202,"I rely on alcohol to relax, even in social situations.",substance_abuse,0.86
+203,I often find myself borrowing money to gamble.,gambling,0.89
+204,I lose track of time while playing video games and neglect my chores.,digital_addiction,0.87
+205,I drink more than I intend when I'm out with friends.,substance_abuse,0.82
+206,I frequently check gambling websites even when I’ve promised to stop.,gambling,0.91
+207,I feel a rush when I check for new likes or messages online.,digital_addiction,0.88
+208,"I often think about my next drink, even while at work.",substance_abuse,0.84
+209,I have gone into debt due to my gambling habits.,gambling,0.9
+210,"I struggle to stop playing video games, even when I want to.",digital_addiction,0.89
+211,I often feel guilty about how much I drink.,substance_abuse,0.83
+212,"I find myself chasing losses when I gamble, thinking I can win it back.",gambling,0.86
+213,I feel restless when I’m not online for an extended period.,digital_addiction,0.9
+214,I use alcohol as a way to escape my problems.,substance_abuse,0.87
+215,I often gamble despite knowing the odds are against me.,gambling,0.84
+216,I feel like I can't function without checking my phone regularly.,digital_addiction,0.92
+217,I sometimes black out from drinking and can't remember the night.,substance_abuse,0.89
+218,I frequently argue with friends about my gambling habits.,gambling,0.85
+219,I prioritize gaming over spending time with family.,digital_addiction,0.88
+220,I often lie about how much I drink to others.,substance_abuse,0.86
+221,"I gamble to feel excitement, even when I can't afford to lose.",gambling,0.9
+222,"I feel compelled to post updates on social media, even when I’m busy.",digital_addiction,0.91
+223,I often drink to cope with feelings of loneliness.,substance_abuse,0.88
+224,"I often place bets when I’m stressed, thinking it will help me relax.",gambling,0.87
+225,I can't resist the urge to check my favorite online game multiple times a day.,digital_addiction,0.89
+226,I find myself drinking even when I don't enjoy it anymore.,substance_abuse,0.85
+227,"I often gamble in secret, hiding it from my friends and family.",gambling,0.92
+228,I feel like I need to be online to feel connected.,digital_addiction,0.9
+229,I frequently choose drinking over spending time with my loved ones.,substance_abuse,0.87
+230,"I often say I will stop gambling, but I can’t seem to do it.",gambling,0.89
+231,I often neglect my hobbies in favor of spending time online.,digital_addiction,0.88
+232,I might buy gadgets I don't need during sales.,none,0.24
+233,I need multiple coffees throughout the day to function.,substance_abuse,0.82
+234,"I might stay up late reading, but I can stop if needed.",none,0.19
+235,I spend hours scrolling TikTok without realizing it.,digital_addiction,0.86
+236,I find myself looking for excuses to drink socially.,substance_abuse,0.83
+237,I feel compelled to keep betting even after losing large sums.,gambling,0.88
+238,I spend weekends gaming instead of socializing.,digital_addiction,0.84
+239,"I enjoy movie marathons occasionally, but I don’t do it often.",none,0.21
+240,I often skip meals while gaming for hours.,digital_addiction,0.88
+241,I find it hard to start the day without checking Instagram.,digital_addiction,0.85
+242,I use alcohol to unwind even when not stressed.,substance_abuse,0.81
+243,I often participate in online challenges just to keep up.,digital_addiction,0.79
+244,"I occasionally place small bets, but it doesn't affect me much.",none,0.23
+245,I check my phone every few minutes without realizing it.,digital_addiction,0.86
+246,"I gamble with friends on weekends, hoping to win big.",gambling,0.83
+247,I snack unconsciously while watching TV for hours.,substance_abuse,0.78
+248,I feel uneasy when I don't receive enough likes on my posts.,digital_addiction,0.82
+249,"I play video games late into the night, even on workdays.",digital_addiction,0.87
+250,"I don't drink often, but when I do, I binge heavily.",substance_abuse,0.85
+251,I spend money impulsively on gambling apps.,gambling,0.89
+252,"I try to cut back on caffeine, but I always relapse.",substance_abuse,0.77
+253,"I enjoy outdoor activities, but I'm not addicted to them.",none,0.18
+254,I get frustrated when I can't access Wi-Fi or data.,digital_addiction,0.8
+255,I drink energy drinks daily to stay alert.,substance_abuse,0.84
+256,I scroll through online stores even when I don’t plan to buy anything.,digital_addiction,0.81
+257,I avoid attending events without alcohol.,substance_abuse,0.82
+258,I can't resist betting when there's a big sports match.,gambling,0.86
+259,"I enjoy listening to music, but I can live without it.",none,0.22
+260,I lose track of time scrolling through memes.,digital_addiction,0.79
+261,"I need coffee every morning, no matter what.",substance_abuse,0.83
+262,I can’t start my day without a strong cup of coffee.,substance_abuse,0.85
+263,I need to smoke a cigarette after every meal.,substance_abuse,0.79
+264,I crave chocolate every afternoon.,substance_abuse,0.76
+265,I can't resist binge-watching TV shows every weekend.,behavioral_addiction,0.82
+266,I feel the need to check my phone every few minutes.,behavioral_addiction,0.88
+267,I often find myself scrolling through social media for hours.,behavioral_addiction,0.9
+268,I need to play video games daily to feel satisfied.,behavioral_addiction,0.84
+269,I can't go a day without my morning tea.,substance_abuse,0.8
+270,I have to buy new clothes every month.,behavioral_addiction,0.77
+271,I need to drink energy drinks to keep going throughout the day.,substance_abuse,0.81
+272,I rely on caffeine to get through my workday.,substance_abuse,0.87
+273,I can't help but eat junk food every night.,substance_abuse,0.78
+274,I feel anxious if I don't have my phone on me.,behavioral_addiction,0.83
+275,I often find myself shopping online instead of doing chores.,behavioral_addiction,0.8
+276,I need to drink wine to unwind after a stressful day.,substance_abuse,0.75
+277,I can't focus without listening to music.,behavioral_addiction,0.76
+278,I need my daily dose of social media likes to feel validated.,behavioral_addiction,0.85
+279,I often lose track of time while browsing the internet.,behavioral_addiction,0.82
+280,I can't go to bed without watching at least one episode of a show.,behavioral_addiction,0.78
+281,I feel the need to drink soda every day.,substance_abuse,0.73
+282,I have to play poker every week with friends.,behavioral_addiction,0.74
+283,I need to check my email constantly.,behavioral_addiction,0.76
+284,I can’t resist eating dessert every night.,substance_abuse,0.8
+285,I often spend hours on TikTok.,behavioral_addiction,0.89
+286,I need to smoke weed to relax.,substance_abuse,0.79
+287,I feel compelled to play video games even when I have work to do.,behavioral_addiction,0.88
+288,I can't resist buying new tech gadgets.,behavioral_addiction,0.77
+289,I drink alcohol every weekend to socialize.,substance_abuse,0.82
+290,I need to check news updates multiple times a day.,behavioral_addiction,0.81
+291,I can't go to sleep without reading.,behavioral_addiction,0.76
+292,I have to play fantasy sports every season.,behavioral_addiction,0.74
+293,I often find myself eating snacks when I'm bored.,substance_abuse,0.78
+294,I feel the need to log my meals every day.,behavioral_addiction,0.75
+295,I can’t resist scrolling through dating apps.,behavioral_addiction,0.83
+296,I need to buy something new to feel happy.,behavioral_addiction,0.81
+297,I can’t go without my morning smoothie.,substance_abuse,0.76
+298,I often binge on chips while watching movies.,substance_abuse,0.79
+299,I need to take a break from work to scroll through social media.,behavioral_addiction,0.82
+300,I find it hard to resist sweets when they are around.,substance_abuse,0.77
+301,I need to play mobile games during my commute.,behavioral_addiction,0.8
+302,I can't go a day without using my computer.,behavioral_addiction,0.84
+303,I often feel the urge to shop online at night.,behavioral_addiction,0.78
+304,I enjoy watching movies on weekends but don't do it often.,none,0.35
+305,"I occasionally play video games, but it's not a regular habit.",none,0.4
+306,"I read books from time to time, but I don't feel the need to read every day.",none,0.25
+307,"I sometimes scroll through social media, but it doesn't consume my time.",none,0.32
+308,"I enjoy cooking on weekends, but I don't consider it an obsession.",none,0.3
+309,"I watch documentaries occasionally, but I don't binge-watch.",none,0.29
+310,"I like to go for walks, but I don’t feel the need to do it every day.",none,0.31
+311,"I occasionally listen to music, but I can go days without it.",none,0.34
+312,I enjoy casual shopping but don't have a compulsive urge to buy things.,none,0.3
+313,"I like to try new recipes sometimes, but it’s not a daily thing.",none,0.28
+314,"I go to the gym occasionally, but I don’t feel pressured to go every day.",none,0.36
+315,"I enjoy gardening, but I don’t spend all my free time on it.",none,0.33
+316,"I watch sports games when they are on, but it's not a regular habit.",none,0.3
+317,"I enjoy going to cafes with friends occasionally, but it's not frequent.",none,0.29
+318,"I like to go hiking during the summer, but I don’t do it all the time.",none,0.31
+319,"I occasionally do puzzles, but it’s just for fun, not a habit.",none,0.25
+320,I enjoy casual conversations with friends but don’t feel the need to be social all the time.,none,0.3
+321,"I sometimes try out new hobbies, but I don’t stick with them long-term.",none,0.28
+322,"I like to attend local events occasionally, but it's not a regular occurrence.",none,0.34
+323,"I sometimes binge on snacks during movie nights, but it's rare.",none,0.32
+324,I like to read news articles but don’t obsessively check the news.,none,0.3
+325,"I enjoy going out to eat, but I can also cook at home and be satisfied.",none,0.36
+326,"I dabble in painting when I feel inspired, but I don’t do it frequently.",none,0.29
+327,I like to catch up on podcasts occasionally but don’t listen daily.,none,0.35
+328,I enjoy playing board games with friends but don’t seek them out regularly.,none,0.33
+329,I sometimes spend time with family on weekends but have my own space too.,none,0.31
+330,"I occasionally indulge in spa days, but I don’t feel compelled to do it often.",none,0.3
+331,I like to try new teas but can also stick to my favorites.,none,0.27
+332,I sometimes take pictures during outings but don’t overdo it.,none,0.32
+333,I enjoy browsing through bookstores occasionally but don’t buy books every time.,none,0.34
+334,I like to do yoga a few times a month but can skip it without any guilt.,none,0.3
+335,I enjoy learning new skills but don’t feel the need to master them all.,none,0.29
+336,I like to watch the occasional live music show but not every week.,none,0.35
+337,I sometimes do karaoke with friends but don’t seek it out often.,none,0.3
+338,I occasionally enjoy craft projects but don’t make them a priority.,none,0.28
+339,I like to go on road trips but can be content staying home too.,none,0.31
+340,I sometimes try new workout classes but don’t feel pressured to keep it up.,none,0.3
+341,I enjoy volunteering but can take breaks without feeling guilty.,none,0.29
+342,I occasionally indulge in self-care activities but don't feel the need to do them often.,none,0.3
+343,I like to spend time outdoors but can also enjoy indoor activities.,none,0.35
+344,"I need coffee to start my day, otherwise I feel sluggish.",substance_abuse,0.85
+345,I occasionally enjoy a glass of wine but don't rely on it.,none,0.4
+346,I have to check my phone constantly for messages and updates.,digital_addiction,0.82
+347,"I play video games on weekends, but it's not something I have to do.",none,0.35
+348,I find myself needing to shop online frequently.,shopping_addiction,0.78
+349,I enjoy hiking occasionally but don’t feel compelled to go all the time.,none,0.3
+350,I often binge-watch series and struggle to stop.,digital_addiction,0.9
+351,"I have a habit of reading novels, but I can easily put them down.",none,0.28
+352,I need to have my phone by my side at all times.,digital_addiction,0.87
+353,I enjoy spending time with friends but don’t feel pressured to socialize often.,none,0.3
+354,I find it hard to resist desserts when they're around.,food_addiction,0.76
+355,I like to experiment with cooking but can easily skip it.,none,0.32
+356,I often scroll through social media for hours without realizing it.,digital_addiction,0.8
+357,I enjoy doing puzzles occasionally but don’t feel the need to do them all the time.,none,0.29
+358,I sometimes feel compelled to check my email repeatedly.,digital_addiction,0.75
+359,I go for runs regularly but can also skip days without feeling guilty.,none,0.31
+360,"I need to buy new clothes often, even when I don’t need them.",shopping_addiction,0.79
+361,I enjoy crafting on the weekends but don't have to do it all the time.,none,0.3
+362,I find myself needing to smoke cigarettes regularly.,substance_abuse,0.85
+363,"I like to go for coffee with friends occasionally, but it’s not a must.",none,0.33
+364,I need to keep snacks handy to feel satisfied throughout the day.,food_addiction,0.74
+365,I enjoy attending concerts but can live without them.,none,0.3
+366,I often find myself needing to refresh my social media feed.,digital_addiction,0.82
+367,I love going out to eat but don’t do it regularly.,none,0.28
+368,I need to check my notifications every few minutes.,digital_addiction,0.88
+369,I like to try different restaurants but can cook at home instead.,none,0.31
+370,I often binge on snacks during late-night movie marathons.,food_addiction,0.77
+371,I find it difficult to put down a good book once I start.,none,0.34
+372,I need to have my favorite coffee brand every morning.,substance_abuse,0.83
+373,I enjoy gardening but don’t spend all my time on it.,none,0.32
+374,I feel compelled to check the latest news updates regularly.,digital_addiction,0.76
+375,"I like to go out for walks, but it's not a necessity.",none,0.3
+376,"I need to buy new gadgets frequently, even when my old ones work fine.",shopping_addiction,0.81
+377,I enjoy sketching occasionally but can go weeks without doing it.,none,0.29
+378,I often binge-watch shows late into the night.,digital_addiction,0.89
+379,I enjoy a casual drink with friends but don’t rely on it for fun.,none,0.3
+380,"I have a habit of collecting shoes, even when I don't wear them all.",shopping_addiction,0.75
+381,I sometimes indulge in ice cream but don’t need it to feel satisfied.,food_addiction,0.32
+382,I like to travel but can also enjoy staying home.,none,0.31
+383,I often need to scroll through my phone while watching TV.,digital_addiction,0.84
+384,I occasionally buy new books but can borrow from the library.,none,0.3
+385,I find myself needing to smoke weed to relax after a long day.,substance_abuse,0.82
+386,"I enjoy painting on weekends, but I can skip it without feeling bad.",none,0.3
+387,I have a tendency to play mobile games for hours without realizing it.,digital_addiction,0.79
+388,I like to try out new recipes but don’t feel compelled to cook every day.,none,0.32
+389,I often need to have energy drinks to stay awake during the day.,substance_abuse,0.85
+390,"I occasionally buy new tech gadgets, but I don't feel the need to have the latest one.",none,0.34
+391,I struggle to resist shopping online during sales events.,shopping_addiction,0.78
+392,I enjoy visiting art galleries but don't need to do it often.,none,0.3
+393,I frequently feel the need to check my social media accounts throughout the day.,digital_addiction,0.81
+394,I occasionally binge on popcorn while watching movies at home.,food_addiction,0.73
+395,I like to go cycling but can skip it for weeks without issue.,none,0.31
+396,I find myself needing to drink soda throughout the day to stay energized.,substance_abuse,0.79
+397,I enjoy volunteering at the animal shelter but don't do it regularly.,none,0.3
+398,I can't help but scroll through fashion websites for new outfits.,shopping_addiction,0.76
+399,I enjoy meditation but can go days without practicing.,none,0.29
+400,I need to take naps during the day to function properly.,none,0.3
